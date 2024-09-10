@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "D:\\Hashim\\Aptech\\HOD-\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|d:\\hashim\\aptech\\hod-\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|d:\\hashim\\aptech\\hod-\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|d:\\hashim\\aptech\\hod-\\webapplication1\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|d:\\hashim\\aptech\\hod-\\webapplication1\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|d:\\hashim\\aptech\\hod-\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|d:\\hashim\\aptech\\hod-\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|d:\\hashim\\aptech\\hod-\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,14 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|d:\\hashim\\aptech\\hod-\\webapplication1\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|d:\\hashim\\aptech\\hod-\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\ScaffoldingReadMe.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication1\\ScaffoldingReadMe.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|d:\\hashim\\aptech\\hod-\\webapplication1\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -119,6 +123,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|d:\\hashim\\aptech\\hod-\\webapplication1\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|d:\\hashim\\aptech\\hod-\\webapplication1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -128,11 +136,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_LoginPartial.cshtml",
@@ -141,12 +149,37 @@
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-02T05:46:10.021Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Users\\Index.cshtml",
+              "ToolTip": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Users\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T10:45:12.458Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T10:43:34.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
@@ -159,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
@@ -167,12 +200,11 @@
               "RelativeToolTip": "WebApplication1\\Program.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T12:35:40.165Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T12:35:40.165Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\appsettings.json",
               "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
@@ -185,20 +217,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAgBAAAAAAAAAAAAABcBAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-27T05:23:51.243Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Data\\ApplicationDbContext.cs",
@@ -206,12 +238,11 @@
               "RelativeToolTip": "WebApplication1\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAgwAwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T14:59:15.544Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-28T14:59:15.544Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Views\\LeavesTypes\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\LeavesTypes\\Index.cshtml",
@@ -219,12 +250,11 @@
               "RelativeToolTip": "WebApplication1\\Views\\LeavesTypes\\Index.cshtml",
               "ViewState": "AgIAACQAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-10T06:26:16.919Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T06:26:16.919Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Login.cshtml",
               "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
@@ -232,12 +262,11 @@
               "RelativeToolTip": "WebApplication1\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "ViewState": "AgIAACEAAAAAAAAAAAAAAC4AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-10T08:44:34.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T08:44:34.085Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 31,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "WebApplication1\\ScaffoldingReadMe.txt",
@@ -245,12 +274,11 @@
               "RelativeToolTip": "WebApplication1\\ScaffoldingReadMe.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-09-10T06:48:41.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T06:48:41.551Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Views\\Employees\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Employees\\Index.cshtml",
@@ -258,12 +286,11 @@
               "RelativeToolTip": "WebApplication1\\Views\\Employees\\Index.cshtml",
               "ViewState": "AgIAADkAAAAAAAAAAAAAAFUAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-27T05:32:02.473Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T05:32:02.473Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "CountriesController.cs",
               "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Controllers\\CountriesController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\CountriesController.cs",
@@ -271,12 +298,11 @@
               "RelativeToolTip": "WebApplication1\\Controllers\\CountriesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T16:06:53.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-28T16:06:53.956Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "CitiesController.cs",
               "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Controllers\\CitiesController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\CitiesController.cs",
@@ -284,12 +310,11 @@
               "RelativeToolTip": "WebApplication1\\Controllers\\CitiesController.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAA1wBAAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T16:06:19.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-28T16:06:19.169Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "UserActivity.cs",
               "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Models\\UserActivity.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\UserActivity.cs",
@@ -301,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "20240902062351_LeaveApplication.cs",
               "DocumentMoniker": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Data\\Migrations\\20240902062351_LeaveApplication.cs",
               "ToolTip": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Data\\Migrations\\20240902062351_LeaveApplication.cs",
@@ -310,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "LeaveApplication.cs",
               "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Models\\LeaveApplication.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\LeaveApplication.cs",
@@ -322,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -334,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "LeavesType.cs",
               "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Models\\LeavesType.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\LeavesType.cs",
@@ -346,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Department.cs",
               "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Models\\Department.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\Department.cs",
@@ -358,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Country.cs",
               "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Models\\Country.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\Country.cs",
@@ -370,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "City.cs",
               "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Models\\City.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\City.cs",
@@ -382,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "LeavesTypesController.cs",
               "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Controllers\\LeavesTypesController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\LeavesTypesController.cs",
@@ -394,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Designation.cs",
               "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Models\\Designation.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\Designation.cs",
@@ -406,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "SystemCodeDetailsController.cs",
               "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Controllers\\SystemCodeDetailsController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\SystemCodeDetailsController.cs",
@@ -418,7 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "SystemCodesController.cs",
               "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Controllers\\SystemCodesController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\SystemCodesController.cs",
@@ -430,7 +455,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "DesignationsController.cs",
               "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Controllers\\DesignationsController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\DesignationsController.cs",
@@ -442,7 +467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "DepartmentsController.cs",
               "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Controllers\\DepartmentsController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\DepartmentsController.cs",
@@ -454,7 +479,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "20240828154405_settingDetails.cs",
               "DocumentMoniker": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Data\\Migrations\\20240828154405_settingDetails.cs",
               "ToolTip": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Data\\Migrations\\20240828154405_settingDetails.cs",
@@ -464,7 +489,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "SystemCodeDetail.cs",
               "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Models\\SystemCodeDetail.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\SystemCodeDetail.cs",
@@ -476,7 +501,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "SystemCode.cs",
               "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Models\\SystemCode.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\SystemCode.cs",
@@ -488,7 +513,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Views\\Employees\\Create.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Employees\\Create.cshtml",
