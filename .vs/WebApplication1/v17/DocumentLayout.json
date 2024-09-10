@@ -1,118 +1,124 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\",
+  "WorkspaceRootPath": "D:\\Hashim\\Aptech\\HOD-\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|c:\\users\\ewe11\\desktop\\hod\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|d:\\hashim\\aptech\\hod-\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|d:\\hashim\\aptech\\hod-\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|d:\\hashim\\aptech\\hod-\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|c:\\users\\ewe11\\desktop\\hod\\webapplication1\\webapplication1\\models\\useractivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\useractivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Data\\Migrations\\20240902062351_LeaveApplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication1\\Data\\Migrations\\20240902062351_LeaveApplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|c:\\users\\ewe11\\desktop\\hod\\webapplication1\\webapplication1\\data\\migrations\\20240902064533_leaveapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\migrations\\20240902064533_leaveapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|c:\\users\\ewe11\\desktop\\hod\\webapplication1\\webapplication1\\models\\leaveapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\leaveapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|c:\\users\\ewe11\\desktop\\hod\\webapplication1\\webapplication1\\models\\leavestype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\leavestype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|c:\\users\\ewe11\\desktop\\hod\\webapplication1\\webapplication1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|c:\\users\\ewe11\\desktop\\hod\\webapplication1\\webapplication1\\controllers\\leavestypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\leavestypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|c:\\users\\ewe11\\desktop\\hod\\webapplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|c:\\users\\ewe11\\desktop\\hod\\webapplication1\\webapplication1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|c:\\users\\ewe11\\desktop\\hod\\webapplication1\\webapplication1\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|d:\\hashim\\aptech\\hod-\\webapplication1\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|c:\\users\\ewe11\\desktop\\hod\\webapplication1\\webapplication1\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|d:\\hashim\\aptech\\hod-\\webapplication1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|c:\\users\\ewe11\\desktop\\hod\\webapplication1\\webapplication1\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|d:\\hashim\\aptech\\hod-\\webapplication1\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|c:\\users\\ewe11\\desktop\\hod\\webapplication1\\webapplication1\\models\\designation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\designation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|d:\\hashim\\aptech\\hod-\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|c:\\users\\ewe11\\desktop\\hod\\webapplication1\\webapplication1\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\ScaffoldingReadMe.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication1\\ScaffoldingReadMe.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|c:\\users\\ewe11\\desktop\\hod\\webapplication1\\webapplication1\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|c:\\users\\ewe11\\desktop\\hod\\webapplication1\\webapplication1\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|c:\\users\\ewe11\\desktop\\hod\\webapplication1\\webapplication1\\controllers\\systemcodedetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\systemcodedetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|c:\\users\\ewe11\\desktop\\hod\\webapplication1\\webapplication1\\controllers\\systemcodescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\systemcodescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|c:\\users\\ewe11\\desktop\\hod\\webapplication1\\webapplication1\\controllers\\designationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\designationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|c:\\users\\ewe11\\desktop\\hod\\webapplication1\\webapplication1\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Data\\Migrations\\20240828154405_settingDetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication1\\Data\\Migrations\\20240828154405_settingDetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|c:\\users\\ewe11\\desktop\\hod\\webapplication1\\webapplication1\\models\\systemcodedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\systemcodedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|c:\\users\\ewe11\\desktop\\hod\\webapplication1\\webapplication1\\models\\systemcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\systemcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|c:\\users\\ewe11\\desktop\\hod\\webapplication1\\webapplication1\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|d:\\hashim\\aptech\\hod-\\webapplication1\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|c:\\users\\ewe11\\desktop\\hod\\webapplication1\\webapplication1\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|d:\\hashim\\aptech\\hod-\\webapplication1\\views\\leavestypes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\leavestypes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|d:\\hashim\\aptech\\hod-\\webapplication1\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|d:\\hashim\\aptech\\hod-\\webapplication1\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|d:\\hashim\\aptech\\hod-\\webapplication1\\models\\useractivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\useractivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Data\\Migrations\\20240902062351_LeaveApplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|d:\\hashim\\aptech\\hod-\\webapplication1\\models\\leaveapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\leaveapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|d:\\hashim\\aptech\\hod-\\webapplication1\\models\\leavestype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\leavestype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|d:\\hashim\\aptech\\hod-\\webapplication1\\controllers\\leavestypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\leavestypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|d:\\hashim\\aptech\\hod-\\webapplication1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|d:\\hashim\\aptech\\hod-\\webapplication1\\models\\designation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\designation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|d:\\hashim\\aptech\\hod-\\webapplication1\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|d:\\hashim\\aptech\\hod-\\webapplication1\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|d:\\hashim\\aptech\\hod-\\webapplication1\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|d:\\hashim\\aptech\\hod-\\webapplication1\\controllers\\systemcodedetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\systemcodedetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|d:\\hashim\\aptech\\hod-\\webapplication1\\controllers\\systemcodescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\systemcodescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|d:\\hashim\\aptech\\hod-\\webapplication1\\controllers\\designationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\designationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|d:\\hashim\\aptech\\hod-\\webapplication1\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Data\\Migrations\\20240828154405_settingDetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|d:\\hashim\\aptech\\hod-\\webapplication1\\models\\systemcodedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\systemcodedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|d:\\hashim\\aptech\\hod-\\webapplication1\\models\\systemcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\systemcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|d:\\hashim\\aptech\\hod-\\webapplication1\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|c:\\users\\ewe11\\desktop\\hod\\webapplication1\\webapplication1\\data\\migrations\\20240828160524_countries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\migrations\\20240828160524_countries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|c:\\users\\ewe11\\desktop\\hod\\webapplication1\\webapplication1\\data\\migrations\\20240828155022_settingdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3019BB6-0904-47B2-8597-85FCF6EC0209}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\migrations\\20240828155022_settingdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -122,65 +128,193 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T05:46:10.021Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T07:34:30.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Program.cs",
+              "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
-              "ToolTip": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Program.cs",
+              "ToolTip": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Program.cs",
               "RelativeToolTip": "WebApplication1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-09T12:35:40.165Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20240902064533_LeaveApplication.cs",
-              "DocumentMoniker": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Data\\Migrations\\20240902064533_LeaveApplication.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Data\\Migrations\\20240902064533_LeaveApplication.cs",
-              "ToolTip": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Data\\Migrations\\20240902064533_LeaveApplication.cs",
-              "RelativeToolTip": "WebApplication1\\Data\\Migrations\\20240902064533_LeaveApplication.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAuwBkAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T06:45:33.341Z",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-10T05:43:36.581Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20240902062351_LeaveApplication.cs",
-              "DocumentMoniker": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Data\\Migrations\\20240902062351_LeaveApplication.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Data\\Migrations\\20240902062351_LeaveApplication.cs",
-              "ToolTip": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Data\\Migrations\\20240902062351_LeaveApplication.cs",
-              "RelativeToolTip": "WebApplication1\\Data\\Migrations\\20240902062351_LeaveApplication.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T06:23:51.45Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserActivity.cs",
-              "DocumentMoniker": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Models\\UserActivity.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Models\\UserActivity.cs",
-              "ToolTip": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Models\\UserActivity.cs",
-              "RelativeToolTip": "WebApplication1\\Models\\UserActivity.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAowBQAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T06:18:11.851Z",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T05:23:51.243Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T14:59:15.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Views\\LeavesTypes\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\LeavesTypes\\Index.cshtml",
+              "ToolTip": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Views\\LeavesTypes\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\LeavesTypes\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T06:26:16.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T08:44:34.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "WebApplication1\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "WebApplication1\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-10T06:48:41.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAFUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T05:32:02.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CountriesController.cs",
+              "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Controllers\\CountriesController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\CountriesController.cs",
+              "ToolTip": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Controllers\\CountriesController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\CountriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T16:06:53.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CitiesController.cs",
+              "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Controllers\\CitiesController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\CitiesController.cs",
+              "ToolTip": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Controllers\\CitiesController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\CitiesController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wBAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T16:06:19.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserActivity.cs",
+              "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Models\\UserActivity.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\UserActivity.cs",
+              "ToolTip": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Models\\UserActivity.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\UserActivity.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T06:18:11.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240902062351_LeaveApplication.cs",
+              "DocumentMoniker": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Data\\Migrations\\20240902062351_LeaveApplication.cs",
+              "ToolTip": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Data\\Migrations\\20240902062351_LeaveApplication.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T06:23:51.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "LeaveApplication.cs",
-              "DocumentMoniker": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Models\\LeaveApplication.cs",
+              "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Models\\LeaveApplication.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\LeaveApplication.cs",
-              "ToolTip": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Models\\LeaveApplication.cs",
+              "ToolTip": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Models\\LeaveApplication.cs",
               "RelativeToolTip": "WebApplication1\\Models\\LeaveApplication.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAA0wCEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -188,35 +322,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-02T05:46:10.021Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAK0BAAAAAAAAAAAqwLYBAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-27T05:23:51.243Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeToolTip": "WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -224,11 +334,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "LeavesType.cs",
-              "DocumentMoniker": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Models\\LeavesType.cs",
+              "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Models\\LeavesType.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\LeavesType.cs",
-              "ToolTip": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Models\\LeavesType.cs",
+              "ToolTip": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Models\\LeavesType.cs",
               "RelativeToolTip": "WebApplication1\\Models\\LeavesType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -236,11 +346,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Models\\Department.cs",
+              "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Models\\Department.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\Department.cs",
-              "ToolTip": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Models\\Department.cs",
+              "ToolTip": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Models\\Department.cs",
               "RelativeToolTip": "WebApplication1\\Models\\Department.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAuwAQAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -248,23 +358,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "WebApplication1\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T14:59:15.544Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "Country.cs",
-              "DocumentMoniker": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Models\\Country.cs",
+              "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Models\\Country.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\Country.cs",
-              "ToolTip": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Models\\Country.cs",
+              "ToolTip": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Models\\Country.cs",
               "RelativeToolTip": "WebApplication1\\Models\\Country.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -272,11 +370,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "City.cs",
-              "DocumentMoniker": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Models\\City.cs",
+              "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Models\\City.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\City.cs",
-              "ToolTip": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Models\\City.cs",
+              "ToolTip": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Models\\City.cs",
               "RelativeToolTip": "WebApplication1\\Models\\City.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -284,11 +382,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
               "Title": "LeavesTypesController.cs",
-              "DocumentMoniker": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Controllers\\LeavesTypesController.cs",
+              "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Controllers\\LeavesTypesController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\LeavesTypesController.cs",
-              "ToolTip": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Controllers\\LeavesTypesController.cs",
+              "ToolTip": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Controllers\\LeavesTypesController.cs",
               "RelativeToolTip": "WebApplication1\\Controllers\\LeavesTypesController.cs",
               "ViewState": "AgIAAFsAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -296,47 +394,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "20240828160524_Countries.cs",
-              "DocumentMoniker": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Data\\Migrations\\20240828160524_Countries.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Data\\Migrations\\20240828160524_Countries.cs",
-              "ToolTip": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Data\\Migrations\\20240828160524_Countries.cs",
-              "RelativeToolTip": "WebApplication1\\Data\\Migrations\\20240828160524_Countries.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T16:05:24.942Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CitiesController.cs",
-              "DocumentMoniker": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Controllers\\CitiesController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\CitiesController.cs",
-              "ToolTip": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Controllers\\CitiesController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\CitiesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T16:06:19.169Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CountriesController.cs",
-              "DocumentMoniker": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Controllers\\CountriesController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\CountriesController.cs",
-              "ToolTip": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Controllers\\CountriesController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\CountriesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T16:06:53.956Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "Designation.cs",
-              "DocumentMoniker": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Models\\Designation.cs",
+              "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Models\\Designation.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\Designation.cs",
-              "ToolTip": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Models\\Designation.cs",
+              "ToolTip": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Models\\Designation.cs",
               "RelativeToolTip": "WebApplication1\\Models\\Designation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -344,11 +406,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "SystemCodeDetailsController.cs",
-              "DocumentMoniker": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Controllers\\SystemCodeDetailsController.cs",
+              "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Controllers\\SystemCodeDetailsController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\SystemCodeDetailsController.cs",
-              "ToolTip": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Controllers\\SystemCodeDetailsController.cs",
+              "ToolTip": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Controllers\\SystemCodeDetailsController.cs",
               "RelativeToolTip": "WebApplication1\\Controllers\\SystemCodeDetailsController.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAA3wBAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -356,11 +418,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "SystemCodesController.cs",
-              "DocumentMoniker": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Controllers\\SystemCodesController.cs",
+              "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Controllers\\SystemCodesController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\SystemCodesController.cs",
-              "ToolTip": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Controllers\\SystemCodesController.cs",
+              "ToolTip": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Controllers\\SystemCodesController.cs",
               "RelativeToolTip": "WebApplication1\\Controllers\\SystemCodesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -368,11 +430,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "DesignationsController.cs",
-              "DocumentMoniker": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Controllers\\DesignationsController.cs",
+              "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Controllers\\DesignationsController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\DesignationsController.cs",
-              "ToolTip": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Controllers\\DesignationsController.cs",
+              "ToolTip": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Controllers\\DesignationsController.cs",
               "RelativeToolTip": "WebApplication1\\Controllers\\DesignationsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -380,11 +442,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "DepartmentsController.cs",
-              "DocumentMoniker": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Controllers\\DepartmentsController.cs",
+              "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Controllers\\DepartmentsController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\DepartmentsController.cs",
-              "ToolTip": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Controllers\\DepartmentsController.cs",
               "RelativeToolTip": "WebApplication1\\Controllers\\DepartmentsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -392,35 +454,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "20240828155022_settingDetails.cs",
-              "DocumentMoniker": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Data\\Migrations\\20240828155022_settingDetails.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Data\\Migrations\\20240828155022_settingDetails.cs",
-              "ToolTip": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Data\\Migrations\\20240828155022_settingDetails.cs",
-              "RelativeToolTip": "WebApplication1\\Data\\Migrations\\20240828155022_settingDetails.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T15:50:22.578Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "20240828154405_settingDetails.cs",
               "DocumentMoniker": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Data\\Migrations\\20240828154405_settingDetails.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Data\\Migrations\\20240828154405_settingDetails.cs",
               "ToolTip": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Data\\Migrations\\20240828154405_settingDetails.cs",
-              "RelativeToolTip": "WebApplication1\\Data\\Migrations\\20240828154405_settingDetails.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-28T15:44:05.404Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "SystemCodeDetail.cs",
-              "DocumentMoniker": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Models\\SystemCodeDetail.cs",
+              "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Models\\SystemCodeDetail.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\SystemCodeDetail.cs",
-              "ToolTip": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Models\\SystemCodeDetail.cs",
+              "ToolTip": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Models\\SystemCodeDetail.cs",
               "RelativeToolTip": "WebApplication1\\Models\\SystemCodeDetail.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -428,11 +476,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "SystemCode.cs",
-              "DocumentMoniker": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Models\\SystemCode.cs",
+              "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Models\\SystemCode.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\SystemCode.cs",
-              "ToolTip": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Models\\SystemCode.cs",
+              "ToolTip": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Models\\SystemCode.cs",
               "RelativeToolTip": "WebApplication1\\Models\\SystemCode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -440,27 +488,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Views\\Employees\\Create.cshtml",
+              "DocumentMoniker": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Views\\Employees\\Create.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Employees\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Views\\Employees\\Create.cshtml",
+              "ToolTip": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\Views\\Employees\\Create.cshtml",
               "RelativeToolTip": "WebApplication1\\Views\\Employees\\Create.cshtml",
               "ViewState": "AgIAABsAAAAAAAAAAAAgwFUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-27T09:26:55.912Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Views\\Employees\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Employees\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\Views\\Employees\\Index.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Employees\\Index.cshtml",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAABAAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-27T05:32:02.473Z"
             }
           ]
         }

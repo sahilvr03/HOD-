@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
+    "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
+    "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
-        "packagesPath": "C:\\Users\\ewe11\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ewe11\\Desktop\\HOD\\WebApplication1\\WebApplication1\\obj\\",
+        "projectPath": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\WebApplication1.csproj",
+        "packagesPath": "C:\\Users\\hashi\\.nuget\\packages\\",
+        "outputPath": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ewe11\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hashi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
