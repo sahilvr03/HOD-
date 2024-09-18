@@ -10,7 +10,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Employees Log in</title>
+    <title>Admin Log in</title>
 
     <!-- Google Font: Source Sans Pro -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
@@ -21,10 +21,38 @@
     <!-- Theme style -->
     <link rel="stylesheet" href="~/Admin/dist/css/adminlte.min.css">
 </head>
-<body class="hold-transition login-page">
-    <div class="login-box">
+<body class="hold-transition login-page " >
+
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark w-100 fixed-top">
+        <a class="navbar-brand" href="#">ONLINE HELP DESK PORTAL</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link" asp-page="./Admin">Employee Login</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" asp-page="./Register">Register</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" asp-page="./ForgotPassword">Forget Password</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <!-- End of Navbar -->
+    <!-- Heading -->
+    <div class="container text-center mt-4">
+        <h1>ONLINE HELP DESK</h1>
+    </div>
+
+    <!-- Login Box -->
+    <div class="login-box mt-5">
         <div class="login-logo">
-            <a href="~/Admin/index2.html"><b>Employee</b>Login</a>
+            <a href="~/Admin/index2.html"><b>Admin</b>Login</a>
         </div>
         <!-- /.login-logo -->
         <div class="card">
@@ -34,7 +62,6 @@
                 <form id="account" method="post">
                     <div class="input-group mb-3">
                         <input type="email" asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" placeholder="name@example.com" />
-                       
                         <span asp-validation-for="Input.Email" class="text-danger"></span>
                         <div class="input-group-append">
                             <div class="input-group-text">
@@ -44,7 +71,6 @@
                     </div>
                     <div class="input-group mb-3">
                         <input type="password" asp-for="Input.Password" class="form-control" autocomplete="current-password" aria-required="true" placeholder="password" />
-                     
                         <span asp-validation-for="Input.Password" class="text-danger"></span>
                         <div class="input-group-append">
                             <div class="input-group-text">
@@ -55,7 +81,7 @@
                     <div class="row">
                         <div class="col-8">
                             <div class="icheck-primary">
-                                <input  type="checkbox" class="form-check-input" asp-for="Input.RememberMe" />
+                                <input type="checkbox" class="form-check-input" asp-for="Input.RememberMe" />
                                 <label for="remember">
                                     @Html.DisplayNameFor(m => m.Input.RememberMe)
                                 </label>
@@ -64,28 +90,27 @@
                         <!-- /.col -->
                         <div class="col-4">
                             <button type="submit" class="btn btn-primary btn-block">Sign In</button>
-                            
                         </div>
                         <!-- /.col -->
                     </div>
                 </form>
 
-                <div>
+                <div class="text-center mt-3">
                     <p>
-                        <a id="forgot-password" asp-page="./ForgotPassword">Forgot your password?</a>
+                        <a id="forgot-password" asp-page="./ForgotPassword" class="btn btn-warning btn-block">Forgot your password?</a>
                     </p>
                     <p>
-                        <a asp-page="./Register" asp-route-returnUrl="@Model.ReturnUrl">Register as a new user</a>
+                        <a asp-page="./Register" asp-route-returnUrl="@Model.ReturnUrl" class="btn btn-success btn-block">Register as a new user</a>
                     </p>
                     <p>
-                        <a id="resend-confirmation" asp-page="./ResendEmailConfirmation">Resend email confirmation</a>
+                        <a id="resend-confirmation" asp-page="./ResendEmailConfirmation" class="btn btn-info btn-block">Resend email confirmation</a>
                     </p>
                 </div>
-               
             </div>
             <!-- /.login-card-body -->
         </div>
     </div>
+
     @section Scripts {
         <partial name="_ValidationScriptsPartial" />
         <script src="~/Admin/plugins/jquery/jquery.min.js"></script>
@@ -96,6 +121,3 @@
     }
 </body>
 </html>
-
-
-

@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\Users\\ewe11\\Documents\\GitHub\\HOD-\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\Users\\ewe11\\Documents\\GitHub\\HOD-\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\ewe11\\Documents\\GitHub\\HOD-\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\WebApplication1.csproj",
-        "packagesPath": "C:\\Users\\hashi\\.nuget\\packages\\",
-        "outputPath": "D:\\Hashim\\Aptech\\HOD-\\WebApplication1\\obj\\",
+        "projectPath": "C:\\Users\\ewe11\\Documents\\GitHub\\HOD-\\WebApplication1\\WebApplication1.csproj",
+        "packagesPath": "C:\\Users\\ewe11\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ewe11\\Documents\\GitHub\\HOD-\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\hashi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\ewe11\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -72,7 +68,7 @@
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[8.0.4, )"
+              "version": "[8.0.5, )"
             }
           },
           "imports": [
